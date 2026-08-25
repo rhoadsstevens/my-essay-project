@@ -87,13 +87,13 @@ exhibit-creator: dcnb
 metadata: crows-essay 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
- page_gen:
-   - data: 'crows-essay'
- template: 'item'
-     name: 'objectid'
-     dir: 'items'
-     extension: 'html' 
-     filter: 'objectid'  
+# page_gen:
+#   - data: 'crows-essay'
+# template: 'item'
+ #    name: 'objectid'
+#     dir: 'items'
+ #    extension: 'html' 
+ #    filter: 'objectid'  
 
 ##########
 # Site/Organization Branding 
