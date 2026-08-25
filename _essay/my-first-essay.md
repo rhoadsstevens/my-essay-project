@@ -22,4 +22,4 @@ And margin notes:{% include essay/feature/aside.html text="This is a margin note
    text="These are very nice crows" %}
 
    {% include essay/feature/image-gallery.html
-   objectid="crows_01;crows_02;crows_03" %}
+   objectid="coll003;coll004;coll005" %}
