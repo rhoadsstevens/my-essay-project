@@ -18,8 +18,8 @@ I can add blockquotes:
 And margin notes:{% include essay/feature/aside.html text="This is a margin note!" %}
 
 {% include essay/feature/aside.html
-   objectid="coll004"
-   text="These are very nice crows" %}
+   objectid="coll005"
+   text="Why won't this every work?????" %}
 
    {% include essay/feature/image-gallery.html
    objectid="coll003;coll004;coll005" %}
