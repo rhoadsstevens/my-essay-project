@@ -16,3 +16,7 @@ I can add blockquotes:
    speaker="Alfred Lord Tennyson" %}
 
 And margin notes:{% include essay/feature/aside.html text="This is a margin note!" %}
+
+{% include essay/feature/aside.html
+   objectid="coll004"
+   text="These are very nice crows" %}
